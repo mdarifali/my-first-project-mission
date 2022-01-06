@@ -69,6 +69,8 @@ body{
 .section-area2{
     width: 33.33%;
 }
+
+
 .section-bg1{
     background-color: rgba(145, 174, 199, 0.322);
     border-radius: 20px;
@@ -89,7 +91,6 @@ body{
     padding: 20px 20px;
     margin-left: 20px;
 }
-
 
 .content h1{
     text-align: center;
@@ -130,14 +131,22 @@ body{
     line-height: 30px;
 }
 
+.profile-shape-bg{
+    background-image: url("shapes/shape-4.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
 
 footer{
     background-color: rgb(58, 54, 54);
     text-align: center;
     color: white;
-    padding: 15px;
+    padding: 5px;
 }
 
 .footer-text-color{
     color: rgb(247, 59, 26);
 }
+
+
