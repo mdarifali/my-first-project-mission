@@ -1,0 +1,143 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.flexible-container{
+    display: flex;
+    padding: 1% 7%;
+    margin-bottom: 80px;
+}
+
+.img-size img{
+    width: 50%;
+}
+
+.section-area{
+    width: 50%;
+    
+}
+
+.person-img{
+    margin-left: 130px;
+    width: 78%;
+}
+
+
+.text-color{
+    color: rgb(247, 59, 26);
+    font-weight: bold;
+}
+
+.top-titel h2{
+    font-size: 70px;
+    line-height: 20px;
+}
+
+.top-titel{
+    margin-top: 200px;
+
+}
+.title-border{
+    border-left: 5px solid rgb(178, 28, 216);
+    
+}
+
+.title-border h1{
+    font-size: 40px;
+    margin-left: 10px;
+    line-height: 20px;
+}
+
+
+.btn{
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.btn a{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(247, 26, 181);
+    padding: 10px 30px;
+    border-radius: 5px;
+    
+}
+
+.section-area2{
+    width: 33.33%;
+}
+.section-bg1{
+    background-color: rgba(145, 174, 199, 0.322);
+    border-radius: 20px;
+    padding: 20px 20px;
+    margin-left: 20px;
+}
+
+.section-bg2{
+    background-color: rgba(194, 212, 153, 0.322);
+    border-radius: 20px;
+    padding: 20px 20px;
+    margin-left: 20px;
+}
+
+.section-bg3{
+    background-color: rgba(197, 151, 211, 0.322);
+    border-radius: 20px;
+    padding: 20px 20px;
+    margin-left: 20px;
+}
+
+
+.content h1{
+    text-align: center;
+    font-size: 40px;
+    
+}
+
+#icons-image img{
+    width: 35%;
+}
+
+.project-img{
+    margin-left: 250px;
+}
+
+
+.profile-top-text{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-weight: 500;
+}
+.profile-top-text h1{
+    font-size: 40px;
+
+}
+.profile-item{
+    width: 33.33%;
+    padding: 5%;
+}
+
+.profile-item img{
+    width: 80%;
+    padding: 20px;
+}
+
+.profile-item p{
+    line-height: 30px;
+}
+
+
+footer{
+    background-color: rgb(58, 54, 54);
+    text-align: center;
+    color: white;
+    padding: 15px;
+}
+
+.footer-text-color{
+    color: rgb(247, 59, 26);
+}
